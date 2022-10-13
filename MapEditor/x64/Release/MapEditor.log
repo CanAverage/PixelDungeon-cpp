@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+C:\Users\kenre\Downloads\Redant_Ken_Pixel_Dungeon\Pixel Dungeon\MapEditor\stdafx.h(27,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory

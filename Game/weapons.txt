@@ -1,0 +1,7 @@
+1 2 10 IronSword Basic_sword_used_by_trainee_warriors 2
+1 3 11 Mace Standard_mace 18
+1 3 10 Steelsword Like_A_Iron_Sword_,_But_Steel 20
+1 4 10 GreatSword A_Sword._A_Great_One 21
+1 4 12 Polearm Polearm_used_by_monk_untill_you_arrived 17
+1 5 14 BattleAxe Axe_made_for_battles 22
+1 6 15 Sledgehammer Hammer_made_for_sledging 23

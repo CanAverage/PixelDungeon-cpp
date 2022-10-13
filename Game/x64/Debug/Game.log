@@ -1,0 +1,44 @@
+﻿  stdafx.cpp
+  Enemy_Boss.cpp
+  Enemy_Monk.cpp
+  Inventory.cpp
+  Inventory_Tile.cpp
+  Item_Armor.cpp
+  Item_Bubble.cpp
+  Core.cpp
+  Enemy.cpp
+C:\Users\kenre\Downloads\Redant_Ken_Pixel_Dungeon\Pixel Dungeon\Game\Enemy.cpp(207,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  EnemyManager.cpp
+  Enemy_Rat.cpp
+  Enemy_Undead.cpp
+  FxManager.cpp
+  Game.cpp
+  Item.cpp
+  ItemManager.cpp
+  Item_Weapon.cpp
+  main.cpp
+  Matrix2x3.cpp
+  Menu.cpp
+  Player.cpp
+  Generating Code...
+  Compiling...
+  PopUpManager.cpp
+  SoundEffect.cpp
+  SoundManager.cpp
+  SoundStream.cpp
+  structs.cpp
+  SVGParser.cpp
+  Texture.cpp
+  Tile.cpp
+  TileManager.cpp
+  UImanager.cpp
+  UI_PlayerStats.cpp
+  utils.cpp
+  Vector2f.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\kenre\Downloads\Redant_Ken_Pixel_Dungeon\Pixel Dungeon\x64\Debug\Game.exe
+  COPY THE DLL FILES
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied

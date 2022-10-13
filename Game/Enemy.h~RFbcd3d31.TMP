@@ -1,0 +1,34 @@
+#pragma once
+#include "Texture.h"
+#include "Player.h"
+#include <iostream>
+#include "utils.h"
+class EnemyManager;
+class Enemy
+{
+public:
+	enum class EnemyType { Rat, Undead };
+	Enemy(TileManager* tManager);
+	~Enemy();
+	void Die();
+	void Draw() const;
+	void Update(float elapsedSec, bool playerFound);
+	bool TryToFindPlayer(Player* player);
+	void IncreaseMovement();
+	bool CheckColission(Point2f pos);
+private:
+	int m_KindOfEnemy;
+	float m_HealthMultiplier;
+	int m_Health;
+	int m_RemainingMoves{};
+	int m_MoveDistanceX;
+	int m_MoveDistanceY;
+	int m_TileSize{ 32 };
+	int m_StepSpeed{ 2 };
+	Point2f m_Pos{};
+	Texture* m_Texture;
+	EnemyType m_TypeOfEnemy;
+	TileManager* m_MyTileManager;
+	Player* m_Player;
+};
+

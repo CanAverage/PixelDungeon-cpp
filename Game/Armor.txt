@@ -1,0 +1,5 @@
+1 10 ClothArmor Made_of_cloth 24 2
+2 10 LeatherArmor Made_of_leather 25 3
+3 10 IronArmor iron_armor 26 6
+4 10 PlateArmor Platy_armor 27 5
+5 10 ChainMail Basic_Armor_Used_By_Warriors 28 4
